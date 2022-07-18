@@ -1,4 +1,6 @@
-### HI  👋
+<div align="center">
+<b> MY PROFILE  👋 </b>
+</div>
 
 😄 HI I'AM IS JUNIOR DEVELOPER
 
