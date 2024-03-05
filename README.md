@@ -17,6 +17,8 @@
 - SQL
 - C#
 - PHP
+- Katalon
+- Robot framework (basic)
 </div>
 
 - :telescope: I’m working  frontend and backend .
